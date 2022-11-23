@@ -1,0 +1,30 @@
+/*@media screen and (max-width: 1024px) {
+    section.first {
+
+        background-color: /*green*/;
+        width: 90%;
+        /*color: green;*/
+    }
+
+    section.first .left {}
+
+    section.first {}
+}*/
+
+/*@media screen and (max-width: 768px) {
+    section.first {
+        background: green;
+    }
+
+
+
+    section.first ul.header__nav {
+        display: none;
+    }
+
+   .first .phone {
+        text-align: center;
+
+    }
+
+}*/
